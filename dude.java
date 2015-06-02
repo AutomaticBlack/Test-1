@@ -1,4 +1,7 @@
 public class dude
 {
-	System.out.println("Hello World by Big D");
+	public static void main(String[]args)
+	{
+		System.out.println("Hello World by Big D");
+	}
 }
