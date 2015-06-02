@@ -3,3 +3,7 @@ What are we doing
 
 
 I DID IT
+
+public class whatAreWeDoing
+{
+}
