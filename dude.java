@@ -1,4 +1,4 @@
 public class dude
 {
-	penis
+	System.out.println("Hello World by Big D");
 }
